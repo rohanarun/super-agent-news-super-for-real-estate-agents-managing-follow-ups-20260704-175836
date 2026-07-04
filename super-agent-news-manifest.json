@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)",
+    "[scworld.com](https://www.scworld.com/news/1st-agentic-ransomware-jadepuffer-invades-database-at-machine-speed)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[azbigmedia.com](https://azbigmedia.com/real-estate/the-future-of-real-estate-operations-ai-and-virtual-assistants-working-together/)",
+    "[housingwire.com](https://www.housingwire.com/articles/16-indispensable-ai-tools-for-real-estate-agents/)"
+  ],
+  "design_plan": "rng=deterministic(42); AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense; label_sweep=competitors_present; button_contrast=black/white pass",
+  "generated_at": "2026-07-04T17:58:42.794755+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion-focused niche landing page for real estate agents who need a personal AI agent that actually operates the apps they already use. Super runs real computer workflows, reuses a computer-use cache for repeated tasks, and is positioned as a sharper alternative to chat-first assistants for durable operations like follow-ups, listing updates, and calendar coordination."
+}
